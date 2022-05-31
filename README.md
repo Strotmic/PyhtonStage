@@ -1,5 +1,6 @@
 # PyhtonStage
-De Python bestanden van mijn stage bedrijf zonder gevoelige info
+The python files i made for my traineeship in my last year of Secondary school
 
-Dit zijn de python bestanden die ik gemaakt heb voor mijn stagebedrijfk
-Voor prive redenen kan ik de bijbehorende grafieken/dump files niet meededelen
+These files don't contain the passwords and usernames i used from the company. 
+You wont be able to run this because this has my local database linked and it doesnt have any odatafeeds to extract from.
+These files succesfully auto created 105 sql tables and inserted 600.000 rows, without a single fault one.(for obvious privacy reasons i cant share these)
